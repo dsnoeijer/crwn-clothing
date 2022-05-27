@@ -30,8 +30,6 @@ const categories = [
 ]
 
 const App = () => {
-
-
   return (
     <Directory categories={categories} />
   )
